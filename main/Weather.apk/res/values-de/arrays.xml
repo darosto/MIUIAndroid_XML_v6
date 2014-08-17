@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weather_type">
-        <item>Sunny</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>Foggy</item>
-        <item>Heavy rainstorm</item>
-        <item>Downpour</item>
-        <item>Rainstorm</item>
-        <item>Thunderstorm</item>
-        <item>Shower</item>
-        <item>Heavy rainfall</item>
+        <item>Sonnig</item>
+        <item>Bewölkt</item>
+        <item>Bedeckt</item>
+        <item>Neblig</item>
+        <item>Starkregen</item>
+        <item>Platzregen</item>
+        <item>Regensturm</item>
+        <item>Gewitter</item>
+        <item>Regen</item>
+        <item>Starkregen</item>
         <item>Moderate rain</item>
-        <item>Light rain</item>
-        <item>Rain and snow mixed</item>
-        <item>Blizzard</item>
-        <item>Snow</item>
-        <item>Heavy snow</item>
+        <item>Leichter Regen</item>
+        <item>Schneeregen</item>
+        <item>Schneesturm</item>
+        <item>Schnee</item>
+        <item>Starker Schnee</item>
         <item>Moderate snow</item>
-        <item>Light snow</item>
-        <item>Strong sandstorm</item>
-        <item>Sand storm</item>
+        <item>Leichter Schnee</item>
+        <item>Starker Sandsturm</item>
+        <item>Sandsturm</item>
         <item>Sand</item>
-        <item>Windy</item>
-        <item>Hail</item>
-        <item>Dust</item>
-        <item>Haze</item>
-        <item>Freezing rain</item>
-        <item>No data</item>
+        <item>Windig</item>
+        <item>Hagel</item>
+        <item>Staub</item>
+        <item>Nebel</item>
+        <item>Gefrierender Regen</item>
+        <item>Keine Daten</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
         <item>Weakest</item>
