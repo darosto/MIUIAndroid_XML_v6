@@ -27,7 +27,7 @@
   <string name="email">Email:</string>
   <string name="fail_generate_barcode">"Code konnte nicht erstellt werden"</string>
   <string name="find_cloud_album">Scannen eines Cloud Album QR Codes</string>
-  <string name="flash_lable">Tachenlampe</string>
+  <string name="flash_lable">Taschenlampe</string>
   <string name="import_contact">Kontakt importieren</string>
   <string name="launch_market">Mi Market starten</string>
   <string name="launch_qq">QQ in Browser starten</string>
@@ -44,7 +44,7 @@
   <string name="qq_details">QQ Details:</string>
   <string name="qr_code_details">QR Code Details:</string>
   <string name="recognize">Identifizieren</string>
-  <string name="recognize_fail">"Konnte nicht Identifiziert werden"</string>
+  <string name="recognize_fail">"Identifizierung fehlgeschlagen"</string>
   <string name="scan_fail">"Scannen fehlgeschlagen"</string>
   <string name="scan_qrcode">Scanne QR Code</string>
   <string name="scan_result">Scan Resultate</string>
@@ -53,7 +53,7 @@
   <string name="success_message_import_from_account">Importiert</string>
   <string name="tips_message">"Sie müssen sich mit dem Internet verbinden, um zu überprüfen ob die Webseite die Sie besuchen wollen sicher ist."</string>
   <string name="tips_title">Internetverbindung</string>
-  <string name="title">Title:</string>
+  <string name="title">Titel:</string>
   <string name="url_is_phish">Diese Webseite ist vermutlich eine Phishing-Website (Huch!).</string>
   <string name="url_is_safety">Diese Webseite ist sicher.</string>
   <string name="url_is_unknown">"Konnte nicht bestätigen das diese Webseite sicher ist. Browsen auf eigenes Risiko."</string>
