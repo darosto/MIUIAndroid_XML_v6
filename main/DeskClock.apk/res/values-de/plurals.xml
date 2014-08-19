@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">%1$d Skunden</item>
+        <item quantity="other">%1$d Sekunden</item>
         <item quantity="one">1 Sekunde</item>
     </plurals>
     <plurals name="timer_item_duration_display_minutes">
