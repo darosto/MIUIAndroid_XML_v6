@@ -92,7 +92,7 @@
     <string-array name="volume_button_setting_entries">
         <item>Nichts tun</item>
         <item>Schlummern</item>
-        <item>Verwefern</item>
+        <item>Verwerfen</item>
     </string-array>
     <string-array name="volume_button_setting_values">
         <item>0</item>
