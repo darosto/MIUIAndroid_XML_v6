@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="agree">Akzeptieren</string>
+  <string name="app_label">Netzwerkumgebung</string>
+  <string name="disagree">Ablehnen</string>
+  <string name="location_warning_message">"Aktivieren des Standortdienstes erlaubt anonyme Standortdaten zu sammeln. Einige der Daten werden auf dem Gerät gespeichert, dies kann auch dann auftreten wenn keine Apps ausgeführt werden. Es gelten die Datennutzungsgebühren ihres Providers während dieses Prozesses."</string>
+  <string name="location_warning_title">Standort Freigabe</string>
+</resources>

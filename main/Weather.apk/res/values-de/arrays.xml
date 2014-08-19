@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>Sonnig</item>
+        <item>Bewölkt</item>
+        <item>Bedeckt</item>
+        <item>Neblig</item>
+        <item>Starkregen</item>
+        <item>Platzregen</item>
+        <item>Regensturm</item>
+        <item>Gewitter</item>
+        <item>Regen</item>
+        <item>Starkregen</item>
+        <item>Moderater Regen</item>
+        <item>Leichter Regen</item>
+        <item>Schneeregen</item>
+        <item>Schneesturm</item>
+        <item>Schnee</item>
+        <item>Starker Schnee</item>
+        <item>Moderater Schnee</item>
+        <item>Leichter Schnee</item>
+        <item>Starker Sandsturm</item>
+        <item>Sandsturm</item>
+        <item>Sand</item>
+        <item>Windig</item>
+        <item>Hagel</item>
+        <item>Staub</item>
+        <item>Nebel</item>
+        <item>Gefrierender Regen</item>
+        <item>Keine Daten</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Weakest</item>
+        <item>Weak</item>
+        <item>Mid-range</item>
+        <item>Strong</item>
+        <item>Strongest</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Wind N</item>
+        <item>Wind NE</item>
+        <item>Wind E</item>
+        <item>Wind SE</item>
+        <item>Wind S</item>
+        <item>Wind SW</item>
+        <item>Wind W</item>
+        <item>Wind NW</item>
+    </string-array>
+</resources>
