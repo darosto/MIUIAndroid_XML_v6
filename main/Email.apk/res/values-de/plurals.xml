@@ -1,91 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="actionbar_unread_messages">
-        <item quantity="other">%1$d unread</item>
+        <item quantity="other">%1$d ungelesen</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
-        <item quantity="other">Archive these %1$d conversations?</item>
-        <item quantity="zero">Archive these %1$d conversations?</item>
-        <item quantity="one">Archive this conversation?</item>
-        <item quantity="two">Archive these %1$d conversations?</item>
-        <item quantity="few">Archive these %1$d conversations?</item>
-        <item quantity="many">Archive these %1$d conversations?</item>
+        <item quantity="other">Diese %1$d Konversationen archivieren?</item>
+        <item quantity="zero">Diese %1$d Konversationen archivieren?</item>
+        <item quantity="one">Diese Konversation archivieren?</item>
+        <item quantity="two">Diese %1$d Konversationen Archivieren?</item>
+        <item quantity="few">Diese %1$d Konversationen Archivieren?</item>
+        <item quantity="many">Diese %1$d Konversationen Archivieren?</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Delete these %1$d conversations?</item>
-        <item quantity="zero">Delete these %1$d conversations?</item>
-        <item quantity="one">Delete this conversation?</item>
-        <item quantity="two">Delete these %1$d conversations?</item>
-        <item quantity="few">Delete these %1$d conversations?</item>
-        <item quantity="many">Delete these %1$d conversations?</item>
+        <item quantity="other">Diese %1$d Konversationen löschen?</item>
+        <item quantity="zero">Diese %1$d Konversationen löschen?</item>
+        <item quantity="one">Diese Konversation löschen?</item>
+        <item quantity="two">Diese %1$d Konversationen löschen?</item>
+        <item quantity="few">Diese %1$d Konversationen löschen?</item>
+        <item quantity="many">Diese %1$d Konversationen löschen?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">These conversations contain merged items. Delete them anyway?</item>
-        <item quantity="zero">These conversations contain merged items. Delete them anyway?</item>
-        <item quantity="one">This conversations contains merged items. Delete it anyway?</item>
-        <item quantity="two">These conversations contain merged items. Delete them anyway?</item>
-        <item quantity="few">These conversations contain merged items. Delete them anyway?</item>
-        <item quantity="many">These conversations contain merged items. Delete them anyway?</item>
+        <item quantity="other">Diese Konversationen enthalten zusammengeführte Elemente. Trotzdem löschen?</item>
+        <item quantity="zero">Diese Konversationen enthalten zusammengeführte Elemente. Trotzdem löschen?</item>
+        <item quantity="one">Diese Konversation enthält zusammengeführte Elemente. Trotzdem löschen?</item>
+        <item quantity="two">Diese Konversationen enthalten zusammengeführte Elemente. Trotzdem löschen?</item>
+        <item quantity="few">Diese Konversationen enthalten zusammengeführte Elemente. Trotzdem löschen?</item>
+        <item quantity="many">Diese Konversationen enthalten zusammengeführte Elemente. Trotzdem löschen?</item>
     </plurals>
     <plurals name="confirm_discard_drafts_conversation">
-        <item quantity="other">Discard drafts from these %1$d conversations?</item>
-        <item quantity="one">Discard drafts from this conversation?</item>
+        <item quantity="other">Entwürfe dieser %1$d Konversationen verwerfen?</item>
+        <item quantity="one">Entwürfe dieser Konversation verwerfen?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">%d selected</item>
-        <item quantity="zero">%d selected</item>
-        <item quantity="one">%d selected</item>
-        <item quantity="two">%d selected</item>
-        <item quantity="few">%d selected</item>
-        <item quantity="many">%d selected</item>
+        <item quantity="other">%d ausgewählt</item>
+        <item quantity="zero">%d ausgewählt</item>
+        <item quantity="one">%d ausgewählt</item>
+        <item quantity="two">%d ausgewählt</item>
+        <item quantity="few">%d ausgewählt</item>
+        <item quantity="many">%d ausgewählt</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> archived.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> archived.</item>
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> archiviert.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> archiviert.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> deleted.</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> deleted.</item>
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> gelöscht.</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> gelöscht.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
-        <item quantity="other">Changed folders.</item>
-        <item quantity="one">Changed folder.</item>
+        <item quantity="other">Geänderte Ordner.</item>
+        <item quantity="one">Geänderter Ordner.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> muted</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> muted.</item>
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> stumm geschaltet</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> stumm geschaltet.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">"&amp;lt;b>%1$d&amp;lt;/b> messages removed from 'important' folder"</item>
-        <item quantity="one">"&amp;lt;b>%1$d&amp;lt;/b> removed from 'important' folder"</item>
+        <item quantity="other">"&amp;lt;b>%1$d&amp;lt;/b> Nachrichten aus 'Wichtig' Ordner entfernt"</item>
+        <item quantity="one">"&amp;lt;b>%1$d&amp;lt;/b> aus 'Wichtig' Ordner entfernt"</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">"&amp;lt;b>%1$d&amp;lt;/b> removed from 'spam' folder"</item>
-        <item quantity="one">"&amp;lt;b>%1$d&amp;lt;/b> removed from 'spam' folder"</item>
+        <item quantity="other">"&amp;lt;b>%1$d&amp;lt;/b> aus 'Spam' Ordner entfernt"</item>
+        <item quantity="one">"&amp;lt;b>%1$d&amp;lt;/b> aus 'Spam' Ordner entfernt"</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> messages reported as spam</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> message reported as spam</item>
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> Nachrichten als Spam gemeldet</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> Nachricht als Spam gemeldet</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> marked as spam</item>
-        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> marked as spam</item>
+        <item quantity="other">&amp;lt;b>%1$d&amp;lt;/b> als Spam markiert</item>
+        <item quantity="one">&amp;lt;b>%1$d&amp;lt;/b> als Spam markiert</item>
     </plurals>
     <plurals name="conversation_unstarred">
-        <item quantity="other">Unstarred %1$d conversations</item>
-        <item quantity="one">Unstarred %1$d conversation</item>
+        <item quantity="other">Unmarkierte %1$d Konversationen</item>
+        <item quantity="one">Unmarkierte %1$d Konversation</item>
     </plurals>
     <plurals name="draft">
-        <item quantity="other">Drafts</item>
-        <item quantity="one">Draft</item>
+        <item quantity="other">Entwürfe</item>
+        <item quantity="one">Entwurf</item>
     </plurals>
     <plurals name="empty_folder_dialog_message">
-        <item quantity="other">%1$d messages will be permanently deleted.</item>
-        <item quantity="zero">%1$d messages will be permanently deleted.</item>
-        <item quantity="one">%1$d message will be permanently deleted.</item>
-        <item quantity="two">%1$d messages will be permanently deleted.</item>
-        <item quantity="few">%1$d messages will be permanently deleted.</item>
-        <item quantity="many">%1$d messages will be permanently deleted.</item>
+        <item quantity="other">%1$d Nachrichten werden permanent gelöscht.</item>
+        <item quantity="zero">%1$d Nachrichten werden permanent gelöscht.</item>
+        <item quantity="one">%1$d Nachricht wird permanent gelöscht.</item>
+        <item quantity="two">%1$d Nachrichten werden permanent gelöscht.</item>
+        <item quantity="few">%1$d Nachrichten werden permanent gelöscht.</item>
+        <item quantity="many">%1$d Nachrichten werden permanent gelöscht.</item>
     </plurals>
     <plurals name="message_view_attachment_bytes">
         <item quantity="other">%dB</item>
@@ -120,43 +120,43 @@
         <item quantity="many">%dMB</item>
     </plurals>
     <plurals name="move_conversation">
-        <item quantity="other">Move %1$d conversations</item>
-        <item quantity="zero">Move %1$d conversations</item>
-        <item quantity="one">Move conversation</item>
-        <item quantity="two">Move %1$d conversations</item>
-        <item quantity="few">Move %1$d conversations</item>
-        <item quantity="many">Move %1$d conversations</item>
+        <item quantity="other">Verschiebe %1$d Konversationen</item>
+        <item quantity="zero">Verschiebe %1$d Konversationen</item>
+        <item quantity="one">Verschiebe Konversation</item>
+        <item quantity="two">Verschiebe %1$d Konversationen</item>
+        <item quantity="few">Verschiebe %1$d Konversationen</item>
+        <item quantity="many">Verschiebe %1$d Konversationen</item>
     </plurals>
     <plurals name="move_messages">
-        <item quantity="other">Move messages</item>
-        <item quantity="zero">Move messages</item>
-        <item quantity="one">Move message</item>
-        <item quantity="two">Move messages</item>
-        <item quantity="few">Move messages</item>
-        <item quantity="many">Move messages</item>
+        <item quantity="other">Nachrichten verschieben</item>
+        <item quantity="zero">Nachrichten verschieben</item>
+        <item quantity="one">Nachricht verschieben</item>
+        <item quantity="two">Nachrichten verschieben</item>
+        <item quantity="few">Nachrichten verschieben</item>
+        <item quantity="many">Nachrichten verschieben</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
-        <item quantity="other">Show %1$d new messages.</item>
-        <item quantity="zero">Show %1$d new messages.</item>
-        <item quantity="one">Show %1$d new message.</item>
-        <item quantity="two">Show %1$d new messages.</item>
-        <item quantity="few">Show %1$d new messages.</item>
-        <item quantity="many">Show %1$d new messages.</item>
+        <item quantity="other">Zeige %1$d neue Nachrichten.</item>
+        <item quantity="zero">Zeige %1$d neue Nachrichten.</item>
+        <item quantity="one">Zeige %1$d neue Nachricht.</item>
+        <item quantity="two">Zeige %1$d neue Nachrichten.</item>
+        <item quantity="few">Zeige %1$d neue Nachrichten.</item>
+        <item quantity="many">Zeige %1$d neue Nachrichten.</item>
     </plurals>
     <plurals name="num_selected">
-        <item quantity="other">%d selected</item>
-        <item quantity="zero">%d selected</item>
-        <item quantity="one">%d selected</item>
-        <item quantity="two">%d selected</item>
-        <item quantity="few">%d selected</item>
-        <item quantity="many">%d selected</item>
+        <item quantity="other">%d ausgewählt</item>
+        <item quantity="zero">%d ausgewählt</item>
+        <item quantity="one">%d ausgewählt</item>
+        <item quantity="two">%d ausgewählt</item>
+        <item quantity="few">%d ausgewählt</item>
+        <item quantity="many">%d ausgewählt</item>
     </plurals>
     <plurals name="show_messages_read">
-        <item quantity="other">%1$d older messages</item>
-        <item quantity="zero">%1$d older messages</item>
-        <item quantity="one">%1$d older message</item>
-        <item quantity="two">%1$d older messages</item>
-        <item quantity="few">%1$d older messages</item>
-        <item quantity="many">%1$d older messages</item>
+        <item quantity="other">%1$d ältere Nachrichten</item>
+        <item quantity="zero">%1$d ältere Nachrichten</item>
+        <item quantity="one">%1$d ältere Nachricht</item>
+        <item quantity="two">%1$d ältere Nachrichten</item>
+        <item quantity="few">%1$d ältere Nachrichten</item>
+        <item quantity="many">%1$d ältere Nachrichten</item>
     </plurals>
 </resources>
