@@ -84,8 +84,6 @@
   <string name="call_description_recording">Recording call…</string>
   <string name="call_forwarding_number_hint">Enter number to forward incoming calls to</string>
   <string name="call_forwarding_settings">Call forward settings</string>
-  <string name="call_ind_services">Call Independent Services</string>
-  <string name="call_number">To:</string>
   <string name="call_record_add_numbers">Add numbers</string>
   <string name="call_record_auto_always">All numbers</string>
   <string name="call_record_auto_scenario_title">Auto-record settings</string>
@@ -139,6 +137,7 @@
   <string name="card_title_incoming_barred">Incoming Calls Barred</string>
   <string name="card_title_multipartycall">MultiParty Call</string>
   <string name="card_title_outgoing_barred">Outgoing Calls Barred</string>
+  <string name="card_title_unconditionalCF">Call Forward Unconditional is enabled</string>
   <string name="carrier_settings"/>
   <string name="carrier_settings_menu"/>
   <string name="cb_sms_settings">Cell Broadcast SMS settings</string>
