@@ -1,45 +1,45 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_label">Download Manager</string>
-  <string name="auto_restart_under_wifi">WLAN will automatically download this file</string>
-  <string name="button_cancel_download">Cancel</string>
-  <string name="button_queue_for_wifi">Queue</string>
-  <string name="button_start_now">Start now</string>
-  <string name="dialog_insufficient_space_on_cache">Not enough space on internal download storage</string>
-  <string name="dialog_insufficient_space_on_external">Not enough space on external storage</string>
-  <string name="download_error">Unsuccessful</string>
-  <string name="download_no_application_title">"Can't open file"</string>
+  <string name="auto_restart_under_wifi">Im WLAN wird diese Datei automatisch heruntergeladen</string>
+  <string name="button_cancel_download">Abbrechen</string>
+  <string name="button_queue_for_wifi">Warteschlange</string>
+  <string name="button_start_now">Jetzt starten</string>
+  <string name="dialog_insufficient_space_on_cache">Nicht genug Platz auf internem Downloadspeicher</string>
+  <string name="dialog_insufficient_space_on_external">Nicht genug Platz auf externem Speicher</string>
+  <string name="download_error">Fehlgeschlagen</string>
+  <string name="download_no_application_title">"Kann Datei nicht öffnen"</string>
   <string name="download_percent">%d%%</string>
-  <string name="download_queued">Queued</string>
-  <string name="download_remaining">%s left</string>
-  <string name="download_running">In progress</string>
-  <string name="download_running_percent">In progress, %d%%</string>
-  <string name="download_unknown_title">&lt;Untitled&gt;</string>
-  <string name="notification_download_complete">Download complete.</string>
-  <string name="notification_download_failed">Download unsuccessful.</string>
-  <string name="notification_need_wifi_for_size">Download size requires WLAN.</string>
-  <string name="notification_paused_in_background">Paused in background.</string>
-  <string name="permdesc_accessAllDownloads">Allows the app to view and modify all downloads initiated by any app on the system.</string>
-  <string name="permdesc_downloadCacheNonPurgeable">"Allows the app to download files to the download cache, which can't be automatically deleted when the download manager needs more space."</string>
-  <string name="permdesc_downloadCompletedIntent">Allows the app to send notifications about completed downloads. Malicious apps can use this to confuse other apps that download files.</string>
-  <string name="permdesc_downloadManager">Allows the app to access the download manager and to use it to download files. Malicious apps can use this to disrupt downloads and access private information.</string>
-  <string name="permdesc_downloadManagerAdvanced">"Allows the app to access the download manager's advanced functions. Malicious apps can use this to disrupt downloads and access private information."</string>
-  <string name="permdesc_downloadWithoutNotification">Allows the app to download files through the download manager without any notification being shown to the user.</string>
-  <string name="permdesc_seeAllExternal">Allows the app to see all downloads to the SD card, regardless of which app downloaded them.</string>
-  <string name="permlab_accessAllDownloads">Access all system downloads</string>
-  <string name="permlab_downloadCacheNonPurgeable">Reserve space in the download cache</string>
-  <string name="permlab_downloadCompletedIntent">Send download notifications.</string>
-  <string name="permlab_downloadManager">Access download manager.</string>
-  <string name="permlab_downloadManagerAdvanced">Advanced download manager functions.</string>
-  <string name="permlab_downloadWithoutNotification">download files without notification</string>
-  <string name="permlab_seeAllExternal">See all downloads to USB storage</string>
+  <string name="download_queued">Warteschlange</string>
+  <string name="download_remaining">%s übrig</string>
+  <string name="download_running">In Bearbeitung</string>
+  <string name="download_running_percent">In Bearbeitung, %d%%</string>
+  <string name="download_unknown_title">&lt;Unbenannt&gt;</string>
+  <string name="notification_download_complete">Download fertig.</string>
+  <string name="notification_download_failed">Download fehlgeschlagen.</string>
+  <string name="notification_need_wifi_for_size">Downloadgröße erfordert WLAN.</string>
+  <string name="notification_paused_in_background">Pausiert im Hintergrund.</string>
+  <string name="permdesc_accessAllDownloads">Gestattet der App alle Downloads von jeder App auf dem System zu sehen und zu modifizieren.</string>
+  <string name="permdesc_downloadCacheNonPurgeable">"Gestattet der App Dateien in den Download Cache zu laden, die nicht automatisch gelöscht werden können, wenn der Download Manager mehr Platz benötigt."</string>
+  <string name="permdesc_downloadCompletedIntent">Gestattet der App Benachrichtigungen über abgeschlossene Downloads zu senden. Schädliche Apps können dadurch andere Download-Apps täuschen.</string>
+  <string name="permdesc_downloadManager">Gestattet der App den Download Manager zu verwenden, um Dateien herunterzuladen. Schädliche Apps können dadurch Downloads unterbrechen und auf private Informationen zugreifen.</string>
+  <string name="permdesc_downloadManagerAdvanced">"Gestattet der App auf die erweiterten Funktionen des Download Managers zuzugreifen. Schädliche Apps können dadurch Downloads unterbrechen und auf private Informationen zugreifen."</string>
+  <string name="permdesc_downloadWithoutNotification">Gestattet der App Dateien über den Download Manager herunterzuladen, ohne den Benutzer zu benachrichtigen.</string>
+  <string name="permdesc_seeAllExternal">Gestattet der App alle Downloads auf die SD Karte zu sehen, unabhängig von der App mit der sie heruntergeladen wurden.</string>
+  <string name="permlab_accessAllDownloads">Zugriff auf alle System Downloads</string>
+  <string name="permlab_downloadCacheNonPurgeable">Platz im Download Cache reservieren</string>
+  <string name="permlab_downloadCompletedIntent">Download Benachrichtigungen senden.</string>
+  <string name="permlab_downloadManager">Zugriff auf Download Manager.</string>
+  <string name="permlab_downloadManagerAdvanced">Erweiterte Download Manager Funktionen.</string>
+  <string name="permlab_downloadWithoutNotification">Dateien ohne Benachrichtigung herunterladen</string>
+  <string name="permlab_seeAllExternal">Alle Downloads auf USB-Storage anzeigen</string>
   <string name="root_downloads">Downloads</string>
-  <string name="wifi_recommended_body" formatted="false">"Starting this %s download now may result in excessive usage of your mobile data connection, which can lead to charges by your mobile operator depending on your data plan.
+  <string name="wifi_recommended_body" formatted="false">"Das starten dieses %s Downloads hat eine übermäßige Nutzung Ihrer mobilen Daten zur Folge, was je nach Datentarif zu erhöhten Kosten führen kann.
 
- Touch %s to start this download the next time you're connected to a WLAN network."</string>
-  <string name="wifi_recommended_title">Queue for download later?</string>
-  <string name="wifi_required_body" formatted="false">"You must use WLAN to complete this %s download. 
+ %s berühren, um den Download fortzusetzen, wenn wieder Verbindung zu einem WLAN besteht."</string>
+  <string name="wifi_recommended_title">Warteschleife zum späteren Herunterladen?</string>
+  <string name="wifi_required_body" formatted="false">"Eine WLAN Verbindung ist zum Abschließen dieses %s Downloads zwingend erforderlich. 
 
-Touch %s to start this download the next time you're connected to a WLAN network."</string>
-  <string name="wifi_required_title">Download too large for operator network</string>
+%s berühren, um den Download fortzusetzen, wenn wieder Verbindung zu einem WLAN besteht."</string>
+  <string name="wifi_required_title">Download zu groß für Betreibernetzwerk</string>
 </resources>
